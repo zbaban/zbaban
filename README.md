@@ -11,7 +11,7 @@ I'm Zaid Baban, a certified Cloud/Devops Engineer. Currently living in Chicago a
 - 💬 Ask me about Cloud Architecture, Networking, Storage, Access Management and Security,  HC Vault, Jira, Linux, Tools Integration and setup!
 - 📫 How to reach me: zaidbaban@gmail.com
 - 😄 Pronouns: Aid (with a Z) - Zaid, it simple :)
-- ⚡ Fun fact: I like Martial Arts and specially Sumo (any other fans here?)
+- ⚡ Fun fact: I watched every season of the great british baking show (among many others), but I've never baked in my life!  
 
 Here are my most recent tech certifications:
 
