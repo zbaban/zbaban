@@ -2,7 +2,7 @@
 
 ### Hello Folks 👋
 
-I'm Zaid Baban, a certified Cloud/Devops Engineer. Currently living in Chicago and working with Coozyn. You can find me on 
+I'm Zaid Baban, a certified Cloud/Devops Engineer. Currently living in Chicago and working with Coozyn.
 
 - 🔭 I’m currently working on a cool SaaS platform for sellers around the world - check it out (https://www.coozyn.com)!
 - 🌱 I’m currently learning HC products! just got my HC Vault certificate, YAY!
