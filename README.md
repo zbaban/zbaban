@@ -2,7 +2,7 @@
 
 ### Hello Folks 👋
 
-I'm Zaid Baban, a certified Cloud/Devops Engineer. Currently living in Chicago and working with Coozyn.
+## I'm Zaid Baban, a certified Cloud/Devops Engineer. Currently living in Chicago and working with Coozyn.
 
 
 - 🔭 I’m currently working on a cool SaaS platform for sellers around the world - check it out (https://www.coozyn.com)!
@@ -15,10 +15,15 @@ I'm Zaid Baban, a certified Cloud/Devops Engineer. Currently living in Chicago a
 - 😄 Pronouns: Aid (with a Z) - Zaid, it simple :)
 - ⚡ Fun fact: I watched every season of the great british baking show (among many others), but I've never baked in my life!  
 
+
+---
+
 Here are my most recent tech certifications:
 
 <a href="https://www.youracclaim.com/earner/earned/badge/10386a5a-a345-4777-afc7-339869637078"><img src=https://github.com/zbaban/zbaban/blob/main/hashicorp-certified-vault-associate.png width=200 height=200> <a href=https://www.youracclaim.com/earner/earned/badge/f5375952-cb36-4263-8bd0-37a031268e3a><img src=https://github.com/zbaban/zbaban/blob/main/aws-certified-sysops-administrator-associate.png width=200 height=200>
 <a href=https://www.youracclaim.com/earner/earned/badge/ff5af0e6-2135-4a1d-b0c8-1e421fd125a2><img src=https://github.com/zbaban/zbaban/blob/main/aws-certified-solutions-architect-associate.png width=200 height=200>
 <a href=https://www.youracclaim.com/earner/earned/badge/e0389343-e00f-48c4-8b1f-7bba266feadf><img src=https://github.com/zbaban/zbaban/blob/main/ibm-blockchain-essentials-2.png width=200 height=200>
+ 
+ ---
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbaban&langs_count=10&layout=compact)](https://github.com/zbaban/github-readme-stats)
