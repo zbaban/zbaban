@@ -1,7 +1,6 @@
-### Hi there 👋
+[![Header](https://github.com/zbaban/zbaban/blob/main/header.png "Header")](https://www.linkedin.com/in/zaid-baban-2935a519/)
 
-<!--
-**zbaban/zbaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cloud Architecture, Networking, Storage, Access Management and Security,  HC Vault, Jira, Linux, Tools Integration and setup!
 - 📫 How to reach me: zaidbaban@gmail.com
 - 😄 Pronouns: Aid (with a Z) - Zaid, it simple :)
-- ⚡ Fun fact: I like Martial Arts and specially Sumo (any other fans here?) 
--->
+- ⚡ Fun fact: I like Martial Arts and specially Sumo (any other fans here?)
