@@ -1,8 +1,8 @@
 [![Header](https://github.com/zbaban/zbaban/blob/main/header.png "Header")](https://www.linkedin.com/in/zaid-baban-2935a519/)
 
-### Hi there 👋
+### Hello Folks 👋
 
-Here are some ideas to get you started:
+I'm Zaid Baban, a certified Cloud/Devops Engineer. Currently living in Chicago and working with Coozyn. You can find me on 
 
 - 🔭 I’m currently working on a cool SaaS platform for sellers around the world - check it out (https://www.coozyn.com)!
 - 🌱 I’m currently learning HC products! just got my HC Vault certificate, YAY!
@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zaidbaban@gmail.com
 - 😄 Pronouns: Aid (with a Z) - Zaid, it simple :)
 - ⚡ Fun fact: I like Martial Arts and specially Sumo (any other fans here?)
+
+Here are most recent Tech certification:
+
