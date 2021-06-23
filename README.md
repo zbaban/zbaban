@@ -20,6 +20,7 @@
 
 Here are my most recent tech certifications:
 
+<a href="https://www.credly.com/badges/ccac21e4-3246-4206-8873-b892d65e32ca/public_url"> <img src=https://github.com/zbaban/zbaban/blob/main/Terraform-Associate-Badge.png width=200 height=200>
 <a href="https://www.youracclaim.com/earner/earned/badge/10386a5a-a345-4777-afc7-339869637078"><img src=https://github.com/zbaban/zbaban/blob/main/hashicorp-certified-vault-associate.png width=200 height=200> <a href=https://www.youracclaim.com/earner/earned/badge/f5375952-cb36-4263-8bd0-37a031268e3a><img src=https://github.com/zbaban/zbaban/blob/main/aws-certified-sysops-administrator-associate.png width=200 height=200>
 <a href=https://www.youracclaim.com/earner/earned/badge/ff5af0e6-2135-4a1d-b0c8-1e421fd125a2><img src=https://github.com/zbaban/zbaban/blob/main/aws-certified-solutions-architect-associate.png width=200 height=200>
 <a href=https://www.youracclaim.com/earner/earned/badge/e0389343-e00f-48c4-8b1f-7bba266feadf><img src=https://github.com/zbaban/zbaban/blob/main/ibm-blockchain-essentials-2.png width=200 height=200>
